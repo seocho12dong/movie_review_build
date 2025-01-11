@@ -1,0 +1,47 @@
+[
+  {
+    "idNum": 0,
+    "id": "ghuh243",
+    "nickname": "갔따리",
+    "name": "유한진",
+    "birth": 980312,
+    "password": "hanjin0909@",
+    "profileImage": " "
+  },
+  {
+    "idNum": 1,
+    "id": "ghuh132",
+    "nickname": "지식해적단",
+    "name": "조승근",
+    "birth": 200416,
+    "password": "hanjin0909@",
+    "profileImage": "https://i.namu.wiki/i/wXGU6DZbHowc6IB0GYPJpcmdDkLO3TW3MHzjg63jcTJvIzaBKhYqR0l9toBMHTv2OSU4eFKfPOlfrSQpymDJlA.webp"
+  },
+  {
+    "idNum": 2,
+    "id": "user3",
+    "nickname": "김영현",
+    "name": "김영현",
+    "birth": 210123,
+    "password": "password3",
+    "profileImage": "https://i.namu.wiki/i/isewV5YhMk42p6KuBkR1J_u1mqj2wT8hkcSDbagHhqGacKERoVq9awgIkAxT187qKocNqobMrn-_sLnPD6ZV6Q.webp"
+  },
+  {
+    "idNum": 3,
+    "id": "user4",
+    "nickname": "김승리",
+    "name": "김승리",
+    "birth": 220624,
+    "password": "password4",
+    "profileImage": "https://i.namu.wiki/i/dPzfOopWxkRvUspHBhunSu-eh5bIbLRaMU7j9DqMIje2C_beipuQLYJ-ksITcAgxM6Z0HqnIhep1LXct-YkF3A.webp"
+  },
+  {
+    "idNum": 4,
+    "id": "user5",
+    "nickname": "김영훈",
+    "name": "김영훈",
+    "birth": 990926,
+    "password": "password5",
+    "profileImage": "https://i.ytimg.com/vi/qpaoDSrYMko/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBY29CYvMMYKY3PWnSKbDM9MxrEzw"
+  }
+]

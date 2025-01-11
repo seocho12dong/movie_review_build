@@ -1,0 +1,4497 @@
+[
+  {
+    "movieId": "0",
+    "movieName": "Avengers",
+    "movieDirector": "Joss Whedon",
+    "movieGenre": "action, SF, adventure, hero, fantasy",
+    "movieRate": 3.6,
+    "RateCount": 50,
+    "movieYear": 2012,
+    "movieTime": 143,
+    "movieAge" : 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb5owTb%2FbtsBF1o7h7B%2F36ktYUEOqdxUqy75nYxJ40%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDHLKb%2FbtsBGmfINYH%2FdA2SQVUyFob5mIRVO3rzm0%2Fimg.png",
+    "movieSynopsis": "When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract, Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D., initiates a superhero recruitment effort to defeat the unprecedented threat to Earth. Joining Fury's \"dream team\" are Iron Man (Robert Downey Jr.), Captain America (Chris Evans), the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner).",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "1",
+    "movieName": "Joker",
+    "movieDirector": "Todd Phillips",
+    "movieGenre": "thriller, drama, crime, action, hero",
+    "movieRate": 3.4,
+    "RateCount": 30,
+    "movieYear": 2019,
+    "movieTime": 122,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcfQaBM%2FbtsBKjoK1LJ%2FycWJKs8PZzaIg1XqxsHTWk%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb1cc79%2FbtsBKjvwIsF%2FQDQjfJdrCulautORce6uD1%2Fimg.png",
+    "movieSynopsis": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society, Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "2",
+    "movieName": "Dark Knight",
+    "movieDirector": "Christopher Nolan",
+    "movieGenre": "thriller, drama, crime, action, hero",
+    "movieRate": 4.8,
+    "RateCount": 80,
+    "movieYear": 2008,
+    "movieTime": 152,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdoN78P%2FbtsBG6QVRtB%2F9ogkg3bS9UPT3WWCRa5n40%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FA1Pwv%2FbtsBHSSt9hN%2FknsnVgxaacSQck450m9yqk%2Fimg.png",
+    "movieSynopsis": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "3",
+    "movieName": "1917",
+    "movieDirector": "Sam Mendes",
+    "movieGenre": "war, drama, action, documentary, history",
+    "movieRate": 4.2,
+    "RateCount": 30,
+    "movieYear": 2019,
+    "movieTime": 119,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHyykQ%2FbtsBQXynorH%2FeqkMkthEKgK74vK8MqkQ41%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb4VEa9%2FbtsBJaFm1r1%2FBTSr20d1UPWOZk3XlXCHjk%2Fimg.png",
+    "movieSynopsis": "During World War I, two British soldiers -- Lance Cpl. Schofield and Lance Cpl. Blake -- receive seemingly impossible orders. In a race against time, they must cross over into enemy territory to deliver a message that could potentially save 1,600 of their fellow comrades -- including Blake's own brother.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "4",
+    "movieName": "Titanic",
+    "movieDirector": "James Cameron",
+    "movieGenre": "romance, drama, disaster, melodrama",
+    "movieRate": 4.5,
+    "RateCount": 70,
+    "movieYear": 1997,
+    "movieTime": 194,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGxmJ1%2FbtsBJeHKLdI%2FtgSemVAAOPoHxK2UaIK1uk%2Fimg.webp",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb6uFzA%2FbtsBFJI2uPE%2FCwPAweK72dWZ2VbSezZFk1%2Fimg.png",
+    "movieSynopsis": "James Cameron's \"Titanic\" is an epic, action-packed romance set against the ill-fated maiden voyage of the R.M.S. Titanic; the pride and joy of the White Star Line and, at the time, the largest moving object ever built. She was the most luxurious liner of her era -- the \"ship of dreams\" -- which ultimately carried over 1,500 people to their death in the ice cold waters of the North Atlantic in the early hours of April 15, 1912.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "5",
+    "movieName": "Inception",
+    "movieDirector": "Christopher Nolan",
+    "movieGenre": "action, adventure, suspence, drama, SF",
+    "movieRate": 4.8,
+    "RateCount": 70,
+    "movieYear": 2010,
+    "movieTime": 148,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbGAs10%2FbtsBT0PFCrL%2FZBY21TG0WBpQht1EHWw2pk%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl6KZC%2FbtsBHPPWrIs%2FGCPm6RuiTsEcOVCrRPQ9N0%2Fimg.jpg",
+    "movieSynopsis": "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "6",
+    "movieName": "Memento",
+    "movieDirector": "Christopher Nolan",
+    "movieGenre": "thriller, crime, mystery, drama",
+    "movieRate": 3.2,
+    "RateCount": 40,
+    "movieYear": 2000,
+    "movieTime": 113,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbJQFz4%2FbtsBGDu9CYA%2FrYqI5QKk9sK1lNDO5RY2y0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fogq5d%2FbtsBKkIlpQD%2FGKMsjSD1fyKRnGG75tUuZk%2Fimg.png",
+    "movieSynopsis": "Leonard (Guy Pearce) is tracking down the man who raped and murdered his wife. The difficulty, however, of locating his wife's killer is compounded by the fact that he suffers from a rare, untreatable form of memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "7",
+    "movieName": "The Shawshank Redemption",
+    "movieDirector": "Frank Darabont",
+    "movieGenre": "drama",
+    "movieRate": 4.3,
+    "RateCount": 60,
+    "movieYear": 1994,
+    "movieTime": 142,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcjEZFA%2FbtsBGln3hD3%2Fkkt7MwDrpYvJihPkiY7ir0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbP7s0t%2FbtsBG6qi8lH%2FwhS9ysqFBBkk80SbtPWlgk%2Fimg.png",
+    "movieSynopsis": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "8",
+    "movieName": "About Time",
+    "movieDirector": "Richard Curtis",
+    "movieGenre": "comedy, romance",
+    "movieRate": 3.8,
+    "RateCount": 40,
+    "movieYear": 2013,
+    "movieTime": 123,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoQjSK%2FbtsBF0RzQEY%2FNwc49gIS1RCAYPvJ6pONZK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FASSJn%2FbtsBGYFJTMA%2FSA20BH4FPujNXG5szqqZ61%2Fimg.png",
+    "movieSynopsis": "When Tim Lake (Domhnall Gleeson) is 21, his father (Bill Nighy) tells him a secret: The men in their family can travel through time. Although he can't change history, Tim resolves to improve his life by getting a girlfriend. He meets Mary (Rachel McAdams), falls in love and finally wins her heart via time-travel and a little cunning. However, as his unusual life progresses, Tim finds that his special ability can't shield him and those he loves from the problems of ordinary life.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "9",
+    "movieName": "The Martian",
+    "movieDirector": "Ridley Scott",
+    "movieGenre": "comedy, SF, disaster, drama, survive",
+    "movieRate": 4.0,
+    "RateCount": 50,
+    "movieYear": 2015,
+    "movieTime": 141,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FduBlKe%2FbtsBMSY1LHM%2F9kuabxbpOXZDVrlkKWGMP0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F0sOYT%2FbtsBQUWnL7N%2FybB79HHXbqLiDidIeKXbYk%2Fimg.png",
+    "movieSynopsis": "When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "10",
+    "movieName": "Parasite",
+    "movieDirector": "Bong Joon-ho",
+    "movieGenre": "comedy, crime, drama, thriller",
+    "movieRate": 4.1,
+    "RateCount": 60,
+    "movieYear": 2019,
+    "movieTime": 132,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbZS7SI%2FbtsBQwg8fEE%2FPOogwR0gNjtpfKDZEn93i1%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeNfE1%2FbtsBGx2JaIs%2F1vWMmX59beV11lxkkxjUnK%2Fimg.png",
+    "movieSynopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "11",
+    "movieName": "Whiplash",
+    "movieDirector": "Damien Chazelle",
+    "movieGenre": "music, drama, thriller",
+    "movieRate": 4.2,
+    "RateCount": 65,
+    "movieYear": 2014,
+    "movieTime": 107,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOBqb0%2FbtsBGpRAh9a%2FZmKCYPxKUMYnXBeOF6UkPK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcqSGuw%2FbtsBGvw5H0a%2FqzxNma6DlTsRzdHbWlUthK%2Fimg.png",
+    "movieSynopsis": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "12",
+    "movieName": "AVATAR",
+    "movieDirector": "James Cameron",
+    "movieGenre": "SF, action, thriller, war, fantasy, adventure, romance",
+    "movieRate": 4.6,
+    "RateCount": 100,
+    "movieYear": 2009,
+    "movieTime": 162,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvdNsL%2FbtsBJdoQn0X%2Fx8c5tsi8Vn7Mo5PuDFvCKK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcbnUs7%2FbtsBJbxOXWB%2FNzV9KwaKTFbM3FLdtEWn7k%2Fimg.png",
+    "movieSynopsis": "James Cameron's Academy Award®-winning 2009 epic adventure \"Avatar\", returns to theaters September 23 in stunning 4K High Dynamic Range. On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "13",
+    "movieName": "Frozen",
+    "movieDirector": "Christopher James Buck",
+    "movieGenre": "animation, music, fantasy, adventure, romance",
+    "movieRate": 3.6,
+    "RateCount": 80,
+    "movieYear": 2013,
+    "movieTime": 102,
+    "movieAge": 0,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPEYzs%2FbtsBGXNCdud%2FELRAOpXLeyICv8hBhmfBwk%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcIPzUU%2FbtsBOh5C5bi%2Fw6LXv7fsK2mpxb7scfnL21%2Fimg.png",
+    "movieSynopsis": "When their kingdom becomes trapped in perpetual winter, fearless Anna (Kristen Bell) joins forces with mountaineer Kristoff (Jonathan Groff) and his reindeer sidekick to find Anna's sister, Snow Queen Elsa (Idina Menzel), and break her icy spell. Although their epic journey leads them to encounters with mystical trolls, a comedic snowman (Josh Gad), harsh conditions, and magic at every turn, Anna and Kristoff bravely push onward in a race to save their kingdom from winter's cold grip.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "14",
+    "movieName": "The Maze Runner",
+    "movieDirector": "Wes Ball",
+    "movieGenre": "adventure, SF, action, thriller",
+    "movieRate": 3.7,
+    "RateCount": 70,
+    "movieYear": 2014,
+    "movieTime": 113,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUsFoK%2FbtsBMSxXCgC%2FobIx78piZsgYpbgvRKkERk%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOjo8z%2FbtsBGkP97QZ%2F4cyHk7D7NFuJZLaVPG9cC0%2Fimg.png",
+    "movieSynopsis": "Thomas (Dylan O'Brien), a teenager, arrives in a glade at the center of a giant labyrinth. Like the other youths dumped there before him, he has no memory of his previous life. Thomas quickly becomes part of the group and soon after demonstrates a unique perspective that scores him a promotion to Runner status -- those who patrol the always-changing maze to find an escape route. Together with Teresa (Kaya Scodelario), the only female, Thomas tries to convince his cohorts that he knows a way out.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "15",
+    "movieName": "Leon",
+    "movieDirector": "Luc Besson",
+    "movieGenre": "action, crime, drama, thriller, noir",
+    "movieRate": 3.2,
+    "RateCount": 50,
+    "movieYear": 1994,
+    "movieTime": 110,
+    "movieAge": 18,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmEHz7%2FbtsBR9lt6ul%2FNcfd07XRfA7t0he0r2ZVm0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FpTqs5%2FbtsBG466uaf%2Fc97j0P5EjpeOQkvkXSpNNK%2Fimg.png",
+    "movieSynopsis": "Mathilda (Natalie Portman) is only 12 years old, but is already familiar with the dark side of life: her abusive father stores drugs for corrupt police officers, and her mother neglects her. Léon (Jean Reno), who lives down the hall, tends to his houseplants and works as a hired hitman for mobster Tony (Danny Aiello). When her family is murdered by crooked DEA agent Stansfield (Gary Oldman), Mathilda joins forces with a reluctant Léon to learn his deadly trade and avenge her family's deaths.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "16",
+    "movieName": "Billy Elliot",
+    "movieDirector": "Stephen David Daldry",
+    "movieGenre": "music, comedy, drama",
+    "movieRate": 2.8,
+    "RateCount": 40,
+    "movieYear": 2000,
+    "movieTime": 110,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc5p9tW%2FbtsBQlGDRn3%2FNztOyiJVVlsxbW42kOtGU1%2Fimg.jpg",
+    "movieBanner": "hhttps://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbOgXbh%2FbtsBGvDNSMP%2FnVnWjn2sqQBk7Iwcr3iX40%2Fimg.png",
+    "movieSynopsis": "The life of 11-year-old Billy Elliot, a coal miner's son in Northern England, is forever changed one day when he stumbles upon a ballet class during his weekly boxing lesson. Before long, he finds himself in dance, demonstrating the kind of raw talent seldom seen by the class' exacting instructor, Mrs. Wilkinson. With a tart tongue and a never-ending stream of cigarettes in her hand, Mrs. Wilkinson's zest for teaching is revived when she sees Billy's potential.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "17",
+    "movieName": "Black Swan",
+    "movieDirector": "Darren Aronofsky",
+    "movieGenre": "drama, thriller",
+    "movieRate": 2.9,
+    "RateCount": 50,
+    "movieYear": 2010,
+    "movieTime": 108,
+    "movieAge": 18,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqCzxC%2FbtsBR7ukHrG%2FGsIx5szKzQzxaXoU3mbKoK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb1OmFY%2FbtsBKfmJ2lq%2FkuVqVf0lKyZyrI0DK0rSjK%2Fimg.png",
+    "movieSynopsis": "Nina (Natalie Portman) is a ballerina whose passion for the dance rules every facet of her life. When the company's artistic director decides to replace his prima ballerina for their opening production of \"Swan Lake,\" Nina is his first choice. She has competition in newcomer Lily (Mila Kunis) however. While Nina is perfect for the role of the White Swan, Lily personifies the Black Swan. As rivalry between the two dancers transforms into a twisted friendship, Nina's dark side begins to emerge.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "18",
+    "movieName": "Dead Poets Society",
+    "movieDirector": "Peter Weir",
+    "movieGenre": "drama",
+    "movieRate": 3.5,
+    "RateCount": 40,
+    "movieYear": 1989,
+    "movieTime": 129,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbYFrYu%2FbtsBQWUc5SO%2FERmuS1uMNyNSEBzf3dKjo1%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcyv9Eb%2FbtsBJa6KdJ3%2FC4rcBhKPzFcvOVBBRHg66K%2Fimg.png",
+    "movieSynopsis": "A new English teacher, John Keating (Robin Williams), is introduced to an all-boys preparatory school that is known for its ancient traditions and high standards. He uses unorthodox methods to reach out to his students, who face enormous pressures from their parents and the school. With Keating's help, students Neil Perry (Robert Sean Leonard), Todd Anderson (Ethan Hawke) and others learn to break out of their shells, pursue their dreams and seize the day.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "19",
+    "movieName": "Fight Club",
+    "movieDirector": "David Fincher",
+    "movieGenre": "drama, crime, thriller, action, noir",
+    "movieRate": 3.6,
+    "RateCount": 45,
+    "movieYear": 1999,
+    "movieTime": 139,
+    "movieAge": 18,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbSrpk3%2FbtsBQr09dYV%2Fpq55lzMHiriKk0REHxQwG1%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzkDoG%2FbtsBG6X8Ucu%2Fyr9z8vyshyYbREkWvB0HBK%2Fimg.png",
+    "movieSynopsis": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "20",
+    "movieName": "In Time",
+    "movieDirector": "Andrew Niccol",
+    "movieGenre": "SF, thriller, action",
+    "movieRate": 3.2,
+    "RateCount": 35,
+    "movieYear": 2011,
+    "movieTime": 109,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI15Mh%2FbtsBGvw5HUz%2F70F24AJHtM55apZf3bket0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ftyp17%2FbtsBQpPNpAG%2FidZnuCeTEEopf8DCi39OLk%2Fimg.png",
+    "movieSynopsis": "In a future where time is money and the wealthy can live forever, Will Salas (Justin Timberlake) is a poor man who rarely has more than a day's worth of life on his time clock. When he saves Henry Hamilton (Matt Bomer) from time thieves, Will receives the gift of a century. However, such a large transaction attracts the attention of the authorities, and when Will is falsely accused of murder, he must go on the run, taking the daughter (Amanda Seyfried) of an incredibly wealthy man with him.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "21",
+    "movieName": "Now You See Me",
+    "movieDirector": "Louis Leterrier",
+    "movieGenre": "crime, action, thriller, noir, fantasy",
+    "movieRate": 3.9,
+    "RateCount": 55,
+    "movieYear": 2013,
+    "movieTime": 115,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWjxRf%2FbtsBKjQbTYA%2FUi6fEzhrmiiQ2pXqtTcQTk%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FucyG1%2FbtsBKjCD1f7%2F5SfaLWaKhBvfV4TmWGKDlK%2Fimg.png",
+    "movieSynopsis": "Charismatic magician Atlas (Jesse Eisenberg) leads a team of talented illusionists called the Four Horsemen. Atlas and his comrades mesmerize audiences with a pair of amazing magic shows that drain the bank accounts of the corrupt and funnel the money to audience members. A federal agent (Mark Ruffalo) and an Interpol detective (Mélanie Laurent) intend to rein in the Horsemen before their next caper, and they turn to Thaddeus (Morgan Freeman), a famous debunker, for help.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "22",
+    "movieName": "Kingsman: The Secret Service",
+    "movieDirector": "Matthew Vaughn",
+    "movieGenre": "action, comedy, thriller, adventure",
+    "movieRate": 1,
+    "RateCount": 1,
+    "movieYear": 2015,
+    "movieTime": 129,
+    "movieAge": 18,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcg0PiE%2FbtsBQSj0b72%2Frje9CkxCH2Szodkkjanowk%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlyKyE%2FbtsBRSKLmcY%2FckwpVZBPIz9yJFdnSXCYEk%2Fimg.png",
+    "movieSynopsis": "Gary \"Eggsy\" Unwin (Taron Egerton), whose late father secretly worked for a spy organization, lives in a South London housing estate and seems headed for a life behind bars. However, dapper agent Harry Hart (Colin Firth) recognizes potential in the youth and recruits him to be a trainee in the secret service. Meanwhile, villainous Richmond Valentine (Samuel L. Jackson) launches a diabolical plan to solve the problem of climate change via a worldwide killing spree.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "23",
+    "movieName": "Taken",
+    "movieDirector": "Pierre Morel",
+    "movieGenre": "crime, thriller, action, noir",
+    "movieRate": 4.1,
+    "RateCount": 48,
+    "movieYear": 2008,
+    "movieTime": 93,
+    "movieAge": 18,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPZxPJ%2FbtsBSaR8vr1%2FL1XKj62YWiNyKzr1pw6FsK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmgnJI%2FbtsBGwbEBRT%2FfwmP7CEnDRrMpTSsXje5V0%2Fimg.png",
+    "movieSynopsis": "Bryan Mills (Liam Neeson), a former government operative, is trying to reconnect with his daughter, Kim (Maggie Grace). Then his worst fears become real when sex slavers abduct Kim and her friend shortly after they arrive in Paris for vacation. With just four days until Kim will be auctioned off, Bryan must call on every skill he learned in black ops to rescue her.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "24",
+    "movieName": "Saving Private Ryan",
+    "movieDirector": "Steven Spielberg",
+    "movieGenre": "drama, war",
+    "movieRate": 4.2,
+    "RateCount": 63,
+    "movieYear": 1998,
+    "movieTime": 169,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcV4V5H%2FbtsBOhYSCFZ%2FKm7Q6HhmCC3HaYjkSLQ0b1%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbYoHWS%2FbtsBR96K55q%2FYkjFAgk88fLm9j6H2oO9Y1%2Fimg.png",
+    "movieSynopsis": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over an uncertain future with honor, decency and courage.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "25",
+    "movieName": "The Chronicles of Narnia",
+    "movieDirector": "Andrew Adamson",
+    "movieGenre": "fantasy, adventure",
+    "movieRate": 3.6,
+    "RateCount": 72,
+    "movieYear": 2005,
+    "movieTime": 143,
+    "movieAge": 0,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbirxbp%2FbtsBR9Mz5m0%2FcftiyEVkKBrs0XRNUMD3RK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAQaJi%2FbtsBMXsu9My%2FzzxrJ0zkCxjPik9vrahBN0%2Fimg.png",
+    "movieSynopsis": "During the World War II bombings of London, four English siblings are sent to a country house where they will be safe. One day Lucy (Georgie Henley) finds a wardrobe that transports her to a magical world called Narnia. After coming back, she soon returns to Narnia with her brothers, Peter (William Moseley) and Edmund (Skandar Keynes), and her sister, Susan (Anna Popplewell). There they join the magical lion, Aslan (Liam Neeson), in the fight against the evil White Witch, Jadis (Tilda Swinton).",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "26",
+    "movieName": "Dune",
+    "movieDirector": "Denis Villeneuve",
+    "movieGenre": "SF, fantasy, drama, action, adventure",
+    "movieRate": 4.3,
+    "RateCount": 88,
+    "movieYear": 2021,
+    "movieTime": 155,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCm4Zr%2FbtsBRRykLDj%2FfLSBaib6bThdMf2akqqqg1%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FU7Ac7%2FbtsBRSYjlxv%2FIdGkzWGUf65aXmAOJfHdF1%2Fimg.png",
+    "movieSynopsis": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their own fear will survive.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "27",
+    "movieName": "The Devil Wears Prada",
+    "movieDirector": "David Frankel",
+    "movieGenre": "drama, comedy",
+    "movieRate": 3.5,
+    "RateCount": 45,
+    "movieYear": 2006,
+    "movieTime": 109,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHvcCg%2FbtsBG550MEs%2FDbM4aHH3srUWyabsYCA95k%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb6Yzpz%2FbtsBKfUABcj%2FvO6bGSRuFLEHQdF5PuPguK%2Fimg.png",
+    "movieSynopsis": "Andy (Anne Hathaway) is a recent college graduate with big dreams. Upon landing a job at prestigious Runway magazine, she finds herself the assistant to diabolical editor Miranda Priestly (Meryl Streep). Andy questions her ability to survive her grim tour as Miranda's whipping girl without getting scorched.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "28",
+    "movieName": "Gladiator",
+    "movieDirector": "Ridley Scott",
+    "movieGenre": "drama, action",
+    "movieRate": 4.1,
+    "RateCount": 63,
+    "movieYear": 2000,
+    "movieTime": 155,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvnjuJ%2FbtsBGhsjUnP%2FaLtXpnJBthlSIj1Y85AAY0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcdvcuc%2FbtsBFEurnWg%2FW2Xtm3KtJ5a4bkkn2WQ94K%2Fimg.png",
+    "movieSynopsis": "Commodus (Joaquin Phoenix) takes power and strips rank from Maximus (Russell Crowe), one of the favored generals of his predecessor and father, Emperor Marcus Aurelius, the great stoical philosopher. Maximus is then relegated to fighting to the death in the gladiator arenas.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "29",
+    "movieName": "Catch Me If You Can",
+    "movieDirector": "Steven Spielberg",
+    "movieGenre": "crime, drama",
+    "movieRate": 3.9,
+    "RateCount": 23,
+    "movieYear": 2002,
+    "movieTime": 141,
+    "movieAge": 15,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIf5HQ%2FbtsBGXz4Kny%2F6BIkSJ7fxLcy2T5C6T6mKK%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlyKyE%2FbtsBRSKLmcY%2FckwpVZBPIz9yJFdnSXCYEk%2Fimg.png",
+    "movieSynopsis": "Frank Abagnale, Jr. (Leonardo DiCaprio) worked as a doctor, a lawyer, and as a co-pilot for a major airline -- all before his 18th birthday. A master of deception, he was also a brilliant forger, whose skill gave him his first real claim to fame: At the age of 17, Frank Abagnale, Jr. became the most successful bank robber in the history of the U.S. FBI Agent Carl Hanratty (Tom Hanks) makes it his prime mission to capture Frank and bring him to justice, but Frank is always one step ahead of him.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  },
+  {
+    "movieId": "30",
+    "movieName": "Pacific Rim",
+    "movieDirector": "Guillermo del Toro",
+    "movieGenre": "SF, action",
+    "movieRate": 3.9,
+    "RateCount": 45,
+    "movieYear": 2013,
+    "movieTime": 131,
+    "movieAge": 12,
+    "movieImg": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdfhGFH%2FbtsBQopPE71%2FvOPkV3JFfke6w4tfY8gBJ0%2Fimg.jpg",
+    "movieBanner": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbR4n8z%2FbtsBQkubnEB%2Fc5ZWO2nfpTOb4gdookDok0%2Fimg.png",
+    "movieSynopsis": "Long ago, legions of monstrous creatures called Kaiju arose from the sea, bringing with them all-consuming war. To fight the Kaiju, mankind developed giant robots called Jaegers, designed to be piloted by two humans locked together in a neural bridge. However, even the Jaegers are not enough to defeat the Kaiju, and humanity is on the verge of defeat. Mankind's last hope now lies with a washed-up ex-pilot (Charlie Hunnam), an untested trainee (Rinko Kikuchi) and an old, obsolete Jaeger.",
+    "movieComment":
+    [
+      {
+        "commentId": "0",
+        "commentName": "김영훈",
+        "commentContent": "좋아요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 10,
+        "commentRate": 4
+      },
+      {
+        "commentId": "1",
+        "commentName": "유한진",
+        "commentContent": "싫어요",
+        "commentDate": "2020.10.10. 15:10",
+        "commentLike": 12,
+        "commentRate": 2
+      },
+      {
+        "commentId": "2",
+        "commentName": "김영현",
+        "commentContent": "재미있네요",
+        "commentDate": "2020.10.12. 10:10",
+        "commentLike": 90,
+        "commentRate": 4
+      },
+      {
+        "commentId": "3",
+        "commentName": "김철수",
+        "commentContent": "감독이 못생겼어요",
+        "commentDate": "2020.10.10. 11:10",
+        "commentLike": 0,
+        "commentRate": 1
+      },
+      {
+        "commentId": "4",
+        "commentName": "이강찬",
+        "commentContent": "배우가 잘생겼네요",
+        "commentDate": "2020.10.10. 9:10",
+        "commentLike": 2,
+        "commentRate": 3
+      },
+      {
+        "commentId": "5",
+        "commentName": "백은렬",
+        "commentContent": "cg가 잘되었네요",
+        "commentDate": "2020.10.10. 11:50",
+        "commentLike": 12,
+        "commentRate": 4
+      },
+      {
+        "commentId": "6",
+        "commentName": "지식해적단",
+        "commentContent": "지루해요",
+        "commentDate": "2021.01.10. 10:10",
+        "commentLike": 34,
+        "commentRate": 1
+      },
+      {
+        "commentId": "7",
+        "commentName": "김호중",
+        "commentContent": "연출이 제법이네요",
+        "commentDate": "2020.10.10. 10:15",
+        "commentLike": 2,
+        "commentRate": 4
+      },
+      {
+        "commentId": "8",
+        "commentName": "김어진",
+        "commentContent": "장르가 마음에 안들어요",
+        "commentDate": "2020.3.23. 18:10",
+        "commentLike": 3,
+        "commentRate": 2
+      },
+      {
+        "commentId": "9",
+        "commentName": "김승리",
+        "commentContent": "주인공이 마음에 들어요",
+        "commentDate": "2020.12.10. 10:10",
+        "commentLike": 4,
+        "commentRate": 4
+      },
+      {
+        "commentId": "10",
+        "commentName": "김진우",
+        "commentContent": "지루해서 나갔어요",
+        "commentDate": "2020.11.10. 10:40",
+        "commentLike": 3,
+        "commentRate": 1
+      },
+      {
+        "commentId": "11",
+        "commentName": "유지민",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "12",
+        "commentName": "김민제",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "13",
+        "commentName": "엄성환",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "14",
+        "commentName": "차민재",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      },
+      {
+        "commentId": "15",
+        "commentName": "류찬영",
+        "commentContent": "재밌어요",
+        "commentDate": "2020.10.10. 10:10",
+        "commentLike": 0,
+        "commentRate": 4
+      }
+    ]
+  }
+]
